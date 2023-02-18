@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrleansURLShortener", "OrleansURLShortener\OrleansURLShortener.csproj", "{89565FA5-DEDC-4E69-AB72-0D96A3B9FF14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89565FA5-DEDC-4E69-AB72-0D96A3B9FF14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89565FA5-DEDC-4E69-AB72-0D96A3B9FF14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89565FA5-DEDC-4E69-AB72-0D96A3B9FF14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89565FA5-DEDC-4E69-AB72-0D96A3B9FF14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09D6AFD6-D43A-4C83-B686-1885560D4F3D}
+	EndGlobalSection
+EndGlobal
